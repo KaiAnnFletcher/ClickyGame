@@ -1,0 +1,86 @@
+[
+    {
+      "id": 1,
+      "name": "Clary Fray",
+      "image": "http://claryandjace.flaunt.nu/photos/albums/screencaps/1x03/normal_Shadowhunters_S01E03_1080p_WEB-DL_DD5_1_H_264-VietHD_mkv_000055951.jpg",
+      "occupation": "Shadowhunter",
+      "location": "The Institute"
+    },
+    {
+      "id": 2,
+      "name": "Jace Herondale",
+      "image": "http://claryandjace.flaunt.nu/photos/albums/screencaps/1x03/normal_Shadowhunters_S01E03_1080p_WEB-DL_DD5_1_H_264-VietHD_mkv_000068761.jpg",
+      "occupation": "Shadowhunter",
+      "location": "The Institute"
+    },
+    {
+      "id": 3,
+      "name": "Simon Lewis",
+      "image": "http://claryandjace.flaunt.nu/photos/albums/userpics/10001/normal_1x01_0014.jpg",
+      "occupation": "Vampire",
+      "location": "The Jade Wolf"
+    },
+    {
+      "id": 4,
+      "name": "Alec Lightwood",
+      "image": "http://claryandjace.flaunt.nu/photos/albums/screencaps/1x03/normal_Shadowhunters_S01E03_1080p_WEB-DL_DD5_1_H_264-VietHD_mkv_000089914.jpg",
+      "occupation": "Shadowhunter",
+      "location": "The Institute"
+    },
+    {
+      "id": 5,
+      "name": "Izzy Lightwood",
+      "image": "http://claryandjace.flaunt.nu/photos/albums/userpics/10001/normal_1x02_0032.jpg",
+      "occupation": "Shadowhunter",
+      "location": "The Institute"
+    },
+    {
+      "id": 6,
+      "name": "Luke Garroway",
+      "image": "http://claryandjace.flaunt.nu/photos/albums/userpics/10001/thumb_1x06_0040.jpg",
+      "occupation": "Warewolf",
+      "location": "The Jade Wolf"
+    },
+    {
+      "id": 7,
+      "name": "Magnus Bane",
+      "image": "http://claryandjace.flaunt.nu/photos/albums/userpics/10001/normal_1x06_0016.jpg",
+      "occupation": "",
+      "location": "A Rabbit Burrow"
+    },
+    {
+      "id": 8,
+      "name": "Maia Roberts",
+      "image": "http://claryandjace.flaunt.nu/photos/albums/userpics/10001/normal_2x03_0005.jpg",
+      "occupation": "Warewolf",
+      "location": "The Jade Wolf"
+    },
+    {
+      "id": 9,
+      "name": "Raphael Santiago",
+      "image": "http://claryandjace.flaunt.nu/photos/albums/userpics/10001/normal_2x10_0002.jpg",
+      "occupation": "Vampire",
+      "location": "New York Vampire Clan"
+    },
+    {
+      "id": 10,
+      "name": "Jordan Kyle",
+      "image": "http://claryandjace.flaunt.nu/photos/albums/userpics/10001/normal_305-003.jpg",
+      "occupation": "Warewolf",
+      "location": "Praetor Lupus"
+    },
+    {
+      "id": 11,
+      "name": "Valentine Morgenstern",
+      "image": "http://claryandjace.flaunt.nu/photos/albums/userpics/10001/normal_17077697_282536035511095_2931603139897327616_n.jpg",
+      "occupation": "Evil Shadowhunter",
+      "location": "The Circle"
+    },
+    {
+      "id": 12,
+      "name": "Jocelyn Fray",
+      "image": "http://claryandjace.flaunt.nu/photos/albums/screencaps/1x12/normal_Shadowhunters_S01E12_1080p_WEB-DL_DD5_1_H_264-VietHD_mkv_000101789.jpg",
+      "occupation": "Shadowhunter",
+      "location": "The Institute"
+    }
+  ]
