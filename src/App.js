@@ -53,12 +53,10 @@ this.setState({ images });
   render() {
 
     return (
-      
-      <Wrapper>
+
+        <Wrapper>
         <Title> Shadow Hunter Clicky Game! </Title>
 
-        
-        
         {this.state.images.map(images => (
             <ImageCard
             shuffleImages={this.shuffleImages}
@@ -67,8 +65,9 @@ this.setState({ images });
             image={images.image}  
           />
         ))}
-      </Wrapper>
+        
+       </Wrapper> 
     )}
-        }
+}
 
 export default App;
